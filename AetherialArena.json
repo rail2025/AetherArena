@@ -9,7 +9,7 @@
     "AssemblyVersion": "0.9.9.0",
     "TestingAssemblyVersion": "0.9.9.0",
     "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/rail2025/AetherialArena",
+    "RepoUrl": "https://github.com/rail2025/AetherArena",
     "ApplicableVersion": "any",
     "Tags": [
         "find",
@@ -18,11 +18,11 @@
     ],
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/rail2025/AetherialArena/releases/download/v0.9.9.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rail2025/AetherialArena/releases/download/v0.9.9.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/rail2025/AetherialArena/releases/download/v0.9.9.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/rail2025/AetherArena/releases/download/v0.9.9.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rail2025/AetherArena/releases/download/v0.9.9.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/rail2025/AetherArena/releases/download/v0.9.9.0/latest.zip",
     "LoadPriority": 0,
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/rail2025/AetherialArena/refs/heads/master/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/rail2025/AetherArena/refs/heads/master/icon.png"
 }
 
