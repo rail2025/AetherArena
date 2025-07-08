@@ -1,6 +1,9 @@
 # Aether Arena
 
-Aether Arena is a mini game Dalamud plugin for FFXIV
+Aether Arena is a mini game Dalamud plugin for FFXIV.<br>
+## Recommended Dalamud scaling/resolution is 1080p. <br>
+UI scaling setting available in the settings window for other resolutions, may be non-optimal looking, but game will function.<br>
+Resolutions below 1080p not supported. It's 2025, 1080p will be dropped in 5 years time.
 ![boss battle](https://github.com/user-attachments/assets/07299d89-6eba-490b-b100-99f25c0928bd)
 
 ![codex](https://github.com/user-attachments/assets/c9b61e43-f66f-4e02-8a89-f2cbcbb6590f)
